@@ -2,3 +2,4 @@
 
 Notes and usage details for agent-app-ingestion.
 - link the usage section
+- clarify the setup steps
